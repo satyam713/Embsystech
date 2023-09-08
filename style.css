@@ -18,6 +18,14 @@
     border-radius: 50px;
 
 }
+#navbaar-new{
+    padding-right: 2rem;
+    padding-left: 4rem;
+
+}
+#logonew{
+    max-width: 200px;
+}
 .name {
     justify-content: center;
     padding: 12px;
