@@ -39,9 +39,9 @@
 
 .nav-list{
     width: 100%;
-    /* background-color: #da5b3e; */
+    
     display: flex;
-    /* position: fixed; */
+   
 
    
 
@@ -83,18 +83,7 @@ h6,
     padding-bottom: 90px;
 
 }
-/* .main-btn .btn-contact{
-    width: 28px;
-    height: 28px;
-    font-family: 'Barlow', sans-serif;
-    font-weight: 600;
-    transition: .5s;
-    padding-left: 0;
-    padding-right: 0;
-    text-align: center;
-    border-radius: 50rem;
-} */
-
+ 
 .btn {
     font-family: 'Barlow', sans-serif;
     font-weight: 600;
